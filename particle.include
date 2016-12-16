@@ -1,0 +1,5 @@
+segment-clock.ino
+Adafruit_LED_Backpack/Adafruit_LEDBackpack.*
+Adafruit-GFX-Library/Adafruit_GFX.*
+Adafruit-GFX-Library/gfxfont.h
+Adafruit-GFX-Library/glcdfont.c
